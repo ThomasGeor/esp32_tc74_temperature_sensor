@@ -10,10 +10,10 @@ This example shows you how to use this library, to interface a TC74 Microchip te
 ## Cabling
 
 This is for ESP32 WROVER B series.
-GND   -> GND
-VDD   -> 3.3v
-SDA   ->  GPIO_NUM_21
-SCLK  ->  GPIO_NUM_22
+- GND   -> GND
+- VDD   -> 3.3v
+- SDA   ->  GPIO_NUM_21
+- SCLK  ->  GPIO_NUM_22
 
 ### Hardware Required
 
